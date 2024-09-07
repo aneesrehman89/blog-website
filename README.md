@@ -1,2 +1,2 @@
 # blog-website
-blog-website | Html | CSS
+blog-website | Html | CSS | responsive
